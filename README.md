@@ -8,6 +8,7 @@ The aim of this project is to create a trustless, blockchain-based review platfo
 3. **Others:**
     1. **Remix:** as an extra IDE for Solidity.
 
+---
 
 ## RECOVERY OF FUNDS FROM COMPROMISED WALLETS - (2023)
 Design and development of a sweeper-fighter bot to recover funds and ERC20 tokens from target wallets during the Arbitrum’s airdrop event. This software is able to fight in other blockchains like Polygon. Differences lie in each blockchain’s characteristics, such as mempool and gases managing.
@@ -17,3 +18,5 @@ Design and development of a sweeper-fighter bot to recover funds and ERC20 token
 2. **Libraries:** Web3.py.
 3. **Others:**
     1. **Scanner:** both ArbiScan and PolygonScan were used to analyse important features and functioning of each smart contract’s code.
+
+---
