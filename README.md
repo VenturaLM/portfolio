@@ -64,7 +64,7 @@ Design and development of a [lottery DApp](https://github.com/VenturaLM/LotteryV
 The aim of this project is to present an approach for class association rule generation using genetic programming methods, accompanied with a colorectal cancer dataset provided by the Reina Sofía University Hospital to validate the proposal, studying parameters values and comparing the extracted results, potentially interesting for an expert, with other proposals.
 
 #### Technologies
-1. **Language:** Python.
+1. **Languages:** Python, LaTeX.
 2. **Libraries:** NumPy, Matplotlib, Pandas, Scikit-Learn.
 
 ---
