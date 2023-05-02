@@ -60,7 +60,8 @@ Design and development of a [lottery DApp](https://github.com/VenturaLM/LotteryV
 ---
 
 ## INTERNSHIP & BCS PROJECT: DEPARTMENT OF COMPUTER SCIENCE AND NUMERICAL ANALYSIS (EPSC) - (2021 - 2022)
-**Study of grammatical genetic programming algorithms for mining class association rules with [PonyGE2](https://github.com/VenturaLM/PonyGE2).**
+**Study of grammatical genetic programming algorithms for mining class association rules with [PonyGE2](https://github.com/VenturaLM/PonyGE2)**
+
 The aim of this project is to present an approach for class association rule generation using genetic programming methods, accompanied with a colorectal cancer dataset provided by the Reina Sofía University Hospital to validate the proposal, studying parameters values and comparing the extracted results, potentially interesting for an expert, with other proposals.
 
 #### Technologies
