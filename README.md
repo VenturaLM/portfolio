@@ -69,5 +69,5 @@ The aim of this project is to present an approach for class association rule gen
 
 ---
 
-#### IBM WATSON IMPLEMENTATION - (2020)
+## IBM WATSON IMPLEMENTATION - (2020)
 [IBM Watson Assistant](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=a54a6ef7-6946-446c-8716-ec76fbe79125&serviceInstanceID=a06bba02-82e0-4a87-9eb5-1947c253c25a) implementation for Information Systems subject in the Computer Science Degree.
