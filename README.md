@@ -48,7 +48,7 @@ Design and development of a blockchain Web3 project, using the ERC721 standard.
 ---
 
 ## DEVELOPMENT OF WEB3 DAPP - (Work In Progress)
-Design and development of a [lottery DApp]() using [Chainlink's VRFv2]().
+Design and development of a [lottery DApp](https://github.com/VenturaLM/LotteryVRFv2) using [Chainlink's VRFv2](https://docs.chain.link/vrf/v2/introduction).
 
 #### Technologies
 1. **Blockchain:** deployable in any of the following networks - Ethereum, BSC, Polygon, Avalanche and Fantom.
